@@ -1,3 +1,7 @@
+---
+title: Marek's personal site
+---
+
 # :wave: Hey there!
 
 My name is Marek.
