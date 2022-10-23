@@ -14,6 +14,9 @@ which I use on all my personal machines.
 In my free time, I contribute to some open source projects, mostly maintaining
 several packages in [nixpkgs](https://github.com/NixOS/nixpkgs).
 
+You can email me at [marek@mdarocha.pl](mailto:marek@mdarocha.pl). It's a catch-all address,
+so you can substitute the part before `@` for anything you like. It helps me organize my mail :).
+
 ## Some links
 
 - [my github profile](https://github.com/mdarocha)
