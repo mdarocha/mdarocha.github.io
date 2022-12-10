@@ -38,5 +38,3 @@ so you can substitute the part before `@` for anything you like. It helps me org
   a helper function, allowing you to build .NET projects in Nix without having to generate
   separate Nix dependency definitions, by using the `packages.lock.json` files that can be
   generated in newer .NET versions.
-
-- [Docker.DotNet fork](https://github.com/TrapTech/Docker.DotNet) with added support for connecting over SSH
