@@ -12,7 +12,7 @@ on the backend, and Angular or React on the frontend. I also have quite a bit
 of experience with Azure, and I'm a huge fan of IaC, having a lot of experience
 with Terraform.
 
-I'm really love automation  and embracing the DevOps process, writing helper
+I love automation  and embracing the DevOps process, writing helper
 scripts for everything I can. I love having my application builds fully
 automated and my infrastructure defined in a Git repository :smile:.
 
