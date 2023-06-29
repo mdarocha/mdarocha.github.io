@@ -23,8 +23,9 @@ focusing mostly on improving the .NET user experience in Nix, and maintaining
 I'm also a maintainer of [Terranix](https://terranix.org/) - a new, Nix-native
 way to define your Terraform infrastructure.
 
-You can email me at [marek@mdarocha.pl](mailto:marek@mdarocha.pl). It's a catch-all address,
-so you can substitute the part before `@` for anything you like. It helps me organize my mail :).
+You can email me at <a title="Email" href="#" data-email_b64="bWFyZWtAbWRhcm9jaGEucGwK"></a>.
+It's a catch-all address, so you can substitute the part before `@` for
+anything you like. It helps me organize my mail :wink:.
 
 ## Some links
 
