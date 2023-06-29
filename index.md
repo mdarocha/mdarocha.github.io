@@ -7,8 +7,8 @@ description: Personal site of Marek Darocha, a full-stack .NET/Angular/React/Azu
 
 My name is Marek.
 
-Professionally, I'm a full stack web developer using mostly the .NET platform
-on the backend, and Angular or React on the frontend. I also have quite a bit
+Professionally, I'm a full stack web developer using the .NET platform,
+Angular and React. I also have quite a bit
 of experience with Azure, and I'm a huge fan of IaC, having a lot of experience
 with Terraform.
 
