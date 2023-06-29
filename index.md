@@ -7,17 +7,21 @@ description: Marek Darocha - personal site
 
 My name is Marek.
 
-Professionally, I'm a fullstack web developer using mostly the .NET platform
-on the backend, and Angular or React on the frontend. I'm also not scared of using
-new tools when the need arises :wink:.
+Professionally, I'm a full stack web developer using mostly the .NET platform
+on the backend, and Angular or React on the frontend. I also have quite a bit
+of experience with Azure, and I'm a huge fan of IaC, having a lot of experience
+with Terraform.
 
-I'm also interested in implementing DevOps processes and automation. I love
-having my application builds fully automated and my infrastructure defined in
-Ansible and Terraform. This led me to the [NixOS project](https://nixos.org/),
-which I use on all my personal machines.
+I'm really love automation  and embracing the DevOps process, writing helper
+scripts for everything I can. I love having my application builds fully
+automated and my infrastructure defined in a Git repository :smile:.
 
-In my free time, I contribute to some open source projects, mostly maintaining
-several packages in [nixpkgs](https://github.com/NixOS/nixpkgs).
+In my free time, I'm a contributor to the [NixOS project](https://nixos.org/),
+focusing mostly on improving the .NET user experience in Nix, and maintaining
+[a few packages](https://repology.org/maintainers/?search=marek%40mdarocha.pl).
+
+I'm also a maintainer of [Terranix](https://terranix.org/) - a new, Nix-native
+way to define your Terraform infrastructure.
 
 You can email me at [marek@mdarocha.pl](mailto:marek@mdarocha.pl). It's a catch-all address,
 so you can substitute the part before `@` for anything you like. It helps me organize my mail :).
@@ -28,12 +32,7 @@ so you can substitute the part before `@` for anything you like. It helps me org
 
 - [my PGP public key](https://mdarocha.pl/my-pgp.key)
 
-## Some of my more interesting public projects
-
-- [nix-qutebrowser-overlays](https://github.com/mdarocha/nix-qutebrowser-overlays) -
-  a set of nixpkgs overlays, allowing you to use
-  [qutebrowser](https://github.com/qutebrowser/qutebrowser) with tree style
-  tabs (similar to the original Firefox extension)
+## Some of my projects
 
 - [nuget-packageslock2nix](https://github.com/mdarocha/nuget-packageslock2nix) (better name pending) -
   a helper function, allowing you to build .NET projects in Nix without having to generate
