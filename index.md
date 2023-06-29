@@ -3,7 +3,7 @@ title: Marek Darocha - personal site
 description: Personal site of Marek Darocha, a full-stack .NET/Angular/React/Azure developer, and nixpkgs contributor
 ---
 
-# :wave: Hey there!
+# 👋 Hey there!
 
 My name is Marek.
 
@@ -14,7 +14,7 @@ knowledgeable about Linux - all my personal devices run it where possible.
 
 I love automation  and embracing the DevOps process, writing helper
 scripts for everything I can. I love having my application builds fully
-automated and my infrastructure defined in a Git repository :smile:.
+automated and my infrastructure defined in a Git repository 😄.
 
 In my free time, I'm a contributor to the [NixOS project](https://nixos.org/),
 focusing mostly on improving the .NET user experience in Nix, and maintaining
@@ -25,7 +25,7 @@ way to define your Terraform infrastructure.
 
 You can email me at <a title="Email" href="#" data-email_b64="bWFyZWtAbWRhcm9jaGEucGwK"></a>.
 It's a catch-all address, so you can substitute the part before `@` for
-anything you like. It helps me organize my mail :wink:.
+anything you like. It helps me organize my mail 😉.
 
 ## Some links
 
