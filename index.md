@@ -1,5 +1,6 @@
 ---
-title: Marek Darocha
+title: Marek Darocha - personal site
+description: Personal site of Marek Darocha, a full-stack .NET/Angular/React/Azure developer, and nixpkgs contributor
 ---
 
 # :wave: Hey there!
