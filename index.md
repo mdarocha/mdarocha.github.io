@@ -1,6 +1,5 @@
 ---
-title: mdarocha.pl
-description: Marek Darocha - personal site
+title: Marek Darocha
 ---
 
 # :wave: Hey there!
