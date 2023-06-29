@@ -9,8 +9,8 @@ My name is Marek.
 
 Professionally, I'm a full stack web developer using the .NET platform,
 Angular and React. I also have quite a bit
-of experience with Azure, and I'm a huge fan of IaC, having a lot of experience
-with Terraform.
+of experience with Azure, Docker, Kubernetes, and I consider myself
+knowledgeable about Linux - all my personal devices run it where possible.
 
 I love automation  and embracing the DevOps process, writing helper
 scripts for everything I can. I love having my application builds fully
