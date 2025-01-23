@@ -31,8 +31,6 @@ anything you like. It helps me organize my mail 😉.
 
 - [my github profile](https://github.com/mdarocha)
 
-- [my PGP public key](https://mdarocha.pl/my-pgp.key)
-
 ## Some of my projects
 
 - [nuget-packageslock2nix](https://github.com/mdarocha/nuget-packageslock2nix) (better name pending) -
